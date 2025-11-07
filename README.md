@@ -10,8 +10,15 @@ The goal of this project is to find, extract, and output all phone numbers and a
 - Playwright 1.55.0
 
 ## Getting started
+Clone the repository:
+```bash
 git clone https://github.com/ivana-ursa/phonenumber-logo-scraper.git
+```
+
+In terminal navigate to the project directory:
+```bash
 cd phonenumber-logo-scraper
+```
 
 ### Install and Run via Docker
 
